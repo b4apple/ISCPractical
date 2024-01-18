@@ -1,6 +1,6 @@
 // This Java program checks whether a given number is a Fascinating Number or not.
 // A Fascinating Number is one whose concatenation with its multiples (2 times and 3 times) contains all digits exactly once.
-
+// (c) Aritro "ars3n1c" Shome
 import java.util.Scanner;
 
 // Class definition for the Fascinating class

@@ -1,6 +1,6 @@
 // This Java program checks whether a given number is a Smith Number or not.
 // A Smith Number is a positive integer for which the sum of its digits is equal to the sum of the digits of its prime factors.
-
+// (c) Aritro "ars3n1c" Shome
 import java.util.Scanner;
 
 // Class definition for the Smith class
